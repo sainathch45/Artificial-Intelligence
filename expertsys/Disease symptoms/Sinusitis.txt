@@ -1,0 +1,13 @@
+low
+no
+no
+high
+no
+high
+no
+no
+no
+low
+no
+no
+no
